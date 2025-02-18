@@ -2,7 +2,7 @@
 
 🔭 I'm an Indie Developer and Content Creator that likes to turn ideas into pixels on the screen <br>
 🎨 I do Game Development Currently working on my first comercial project [The Kindred](https://elvisvilla.itch.io/soul-godot-engine) <br>
-🌱 Currently learning iOS Development, on the making of Project Studio, my re-imagination of Productivity <br>
+🌱 Currently learning iOS Development, on the making of [Project Studio](https://exact-leadership-400539.framer.app/), my re-imagination of Productivity <br>
 💭 Sharing my journey with my commonuty on [Youtube Channel](https://www.youtube.com/@bissash05) <br>
 
 # 🧰 Lenguages and Tools
